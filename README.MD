@@ -6,7 +6,7 @@ A React Native calculator with light and dark theme toggling.
 ### Screens
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="\README.MD" alt="Calculator Overview" width="45%" />
+  <img src="https://github.com/PrashantDesale2004/React-Naive-Calculator/blob/main/CalByPrashant.jpeg" alt="Calculator Overview" width="45%" />
   
 </div>
 
